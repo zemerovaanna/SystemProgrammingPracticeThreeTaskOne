@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	setlocale(LC_ALL, "rus");
+	setlocale(LC_ALL, "ru");
 	cout << "Задание 1. Вычислить значение функции:" << endl;
 	cout << "Формула: x = 3y^2/ (4tgz – 2t^2) при t = 0.5; z = 6; y = t + 2ctgz" << endl;
 	cout << "x = " << X;
